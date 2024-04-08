@@ -1,6 +1,6 @@
 # 👋嘿，我是pscgyLancer
 
-**Blog**：[My Blog](https://pscgyLancer.site)
+**Blog**：[My Blog]([https://pscgyLancer.site](https://blog.pscgylancer.cn/))
 
 **Contact**：pscgyLancer@163.com
 
