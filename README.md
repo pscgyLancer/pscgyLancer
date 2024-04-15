@@ -4,6 +4,8 @@
 
 **Contact**：pscgyLancer@163.com
 
+**个人AI站点**：[LinAI](https://ai.pscgylancer.cn)
+
 ---
 
 # 📦个人GitHub统计
